@@ -15,3 +15,8 @@ Código em VHDL do banco de registradores completo com as seguintes entradas e s
 Entrada de CLK de 1 bit; entrada de R/W de 1 bit; entrada de endereço de 3 bits; entrada de dados de 8 bits.
 Saída de dados de 8 bits.
 Código em VHDL do testbench do banco de registradores.
+
+
+
+Link Video de Apresentação:
+https://youtu.be/Rojkhlwrmjs
